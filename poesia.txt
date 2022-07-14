@@ -1,1 +1,3 @@
 ECHO est  ativado.
+
+O que é subjetivo é sentido, não cabe em conceitos
