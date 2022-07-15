@@ -1,3 +1,0 @@
-ECHO est  ativado.
-
-a panqueca esta sempre acima do rocambole

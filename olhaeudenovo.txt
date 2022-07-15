@@ -1,3 +1,0 @@
-ECHO est  ativado.
-
-git este eh novo modulo
