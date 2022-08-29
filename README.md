@@ -1,3 +1,3 @@
 #cursoconnect
 
-Curso muito importante para a formação profissional na área de programação.
+Curso presencial de capacitação de programadores para o mercado, realizado por BioPark Educação, sediado em Toledo, Paraná.
